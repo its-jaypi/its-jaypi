@@ -1,7 +1,7 @@
 ### Oii! Eu sou o João Pedro
 
 
-- 🔭 Sou um adolecente de 17 anos autodidata, então sem emprego, por enquanto
+- 🔭 Sou apenas um jovem de 18 anos que estuda programação
 - 🌱 Estou estudando javascript
 - 📫 Contate-me no meu instagram ou email: jpmoura866@gmail.com / @jpdroosm
 - 😄 Pronouns: ele/dele
