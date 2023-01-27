@@ -3,7 +3,7 @@
 
 - 🔭 Sou apenas um jovem de 18 anos que estuda programação
 - 🌱 Estou estudando javascript
-- 📫 Contate-me no meu instagram ou email: jpmoura866@gmail.com / @jpdroosm
+- 📫 Contate-me no meu instagram ou email: joaopedrosmoura7@gmail.com / @joaopsmoura
 - 😄 Pronouns: ele/dele
 
 <div align="center">
