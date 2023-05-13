@@ -1,10 +1,9 @@
 ### Oii! Eu sou o João Pedro
 
 
-- 🔭 Sou apenas um jovem de 18 anos que estuda programação
+- 🔭 Sou apenas um jovem de 19 anos que estuda programação
 - 🌱 Estou estudando javascript
 - 📫 Contate-me no meu instagram ou email: joaopedrosmoura7@gmail.com / @joaopsmoura
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/its-jaypi">
