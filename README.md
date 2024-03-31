@@ -1,7 +1,7 @@
 ### Oii! Eu sou o João Pedro
 
 
-- 🔭 Sou apenas um jovem de 19 anos que estuda programação
+- 🔭 Sou apenas um jovem de 20 anos que estuda programação
 - 🌱 Estou estudando javascript
 - 📫 Contate-me no meu instagram ou email: joaopedrosmoura7@gmail.com / @joaopsmoura
 
